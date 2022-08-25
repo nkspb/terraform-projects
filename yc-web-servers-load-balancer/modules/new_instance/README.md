@@ -1,4 +1,5 @@
-<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+# new_instance
+
 ## Requirements
 
 | Name | Version |
@@ -38,4 +39,3 @@ No modules.
 |------|-------------|
 | <a name="output_external_ip"></a> [external\_ip](#output\_external\_ip) | n/a |
 | <a name="output_internal_ip"></a> [internal\_ip](#output\_internal\_ip) | n/a |
-<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->

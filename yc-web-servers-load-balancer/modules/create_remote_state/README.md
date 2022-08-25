@@ -1,4 +1,5 @@
-<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+# create_remote_state
+
 ## Requirements
 
 | Name | Version |
@@ -40,4 +41,3 @@ No modules.
 |------|-------------|
 | <a name="output_sa_access_key"></a> [sa\_access\_key](#output\_sa\_access\_key) | n/a |
 | <a name="output_sa_secret_key"></a> [sa\_secret\_key](#output\_sa\_secret\_key) | n/a |
-<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
