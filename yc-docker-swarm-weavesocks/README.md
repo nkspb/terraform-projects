@@ -1,3 +1,6 @@
+# yc-docker-swarm-weavesocks
+Deploy weavesocks-shop demo project (https://github.com/microservices-demo/microservices-demo)<br /> on docker swarm cluster in Yandex.Cloud
+
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
