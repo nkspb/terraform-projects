@@ -1,6 +1,3 @@
-# yc-docker-swarm-weavesocks
-Deploy docker swarm weavesocks demo project (https://github.com/microservices-demo/microservices-demo) in Yandex.Cloud
-
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
@@ -31,9 +28,9 @@ Deploy docker swarm weavesocks demo project (https://github.com/microservices-de
 
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
-| <a name="input_cloud_id"></a> [cloud\_id](#input\_cloud\_id) | Cloud id for the project | `string` | `"b1gr35fn61cc9vla5hls"` | no |
-| <a name="input_folder_id"></a> [folder\_id](#input\_folder\_id) | Folder id for the project | `string` | `"b1g8r60gb2fi173laerp"` | no |
-| <a name="input_token"></a> [token](#input\_token) | Token to access cloud | `string` | `"AQAAAAABK7K-AATuwX2wN4TsQksApSyNbuQpHs8"` | no |
+| <a name="input_cloud_id"></a> [cloud\_id](#input\_cloud\_id) | Cloud id for the project | `string` | `"X"` | no |
+| <a name="input_folder_id"></a> [folder\_id](#input\_folder\_id) | Folder id for the project | `string` | `"X"` | no |
+| <a name="input_token"></a> [token](#input\_token) | Token to access cloud | `string` | `"X"` | no |
 | <a name="input_zone"></a> [zone](#input\_zone) | Availability zone for VM | `string` | `"ru-central1-a"` | no |
 
 ## Outputs

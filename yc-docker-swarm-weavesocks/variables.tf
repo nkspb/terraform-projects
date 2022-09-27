@@ -7,17 +7,17 @@ variable "zone" {
 variable "folder_id" {
   description = "Folder id for the project"
   type        = string
-  default     = "b1g8r60gb2fi173laerp"
+  default     = "X"
 }
 
 variable "cloud_id" {
   description = "Cloud id for the project"
   type        = string
-  default     = "b1gr35fn61cc9vla5hls"
+  default     = "X"
 }
 
 variable "token" {
   description = "Token to access cloud"
   type        = string
-  default     = "AQAAAAABK7K-AATuwX2wN4TsQksApSyNbuQpHs8"
+  default     = "X"
 }
